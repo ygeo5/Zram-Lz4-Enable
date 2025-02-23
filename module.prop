@@ -1,0 +1,7 @@
+id=ZRLE
+name=Zram Lz4 Enable
+version=v1
+versionCode=1
+author=@Y-geo5 [telegram]
+description=Make zram compression a little faster with this module
+support=https://t.me/Ygeo5chanel
